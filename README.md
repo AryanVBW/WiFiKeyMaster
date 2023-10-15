@@ -22,7 +22,6 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 - [Supported Platforms](#supported-platforms)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -52,21 +51,20 @@ WiFi Password Retriever is a powerful and user-friendly script that allows you t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/wifi-password-retriever.git
-
+   git clone https://github.com/AryanVBW/WiFiKeyMaster.git
  2. Run the script:
 
    - **Linux**:
 
      ```bash
-     chmod +x wifi_password_retriever.sh
-     ./wifi_password_retriever.sh
+     chmod +x WiFiKeyMaster.sh
+     ./WiFiKeyMaster.sh
      
 
    - **Windows**:
 
      ```powershell
-     .\wifi_password_retriever.ps1
+     .\WiFiKeyMaster.ps1
      
 
 3. Follow the on-screen instructions to retrieve your saved Wi-Fi passwords.
