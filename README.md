@@ -12,7 +12,8 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 
 <a href="https://instagram.com/aryan_technolog1es"><img src="https://img.shields.io/badge/Instagram-Follow%20@Aryan_Technologies-E1306C"/></a>
 </div>
- # 🌐 WiFi Password Retriever 🌐
+
+# 🌐 WiFi Password Retriever 🌐
 
 
 ## Table of Contents
