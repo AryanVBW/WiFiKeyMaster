@@ -12,6 +12,12 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 
 <a href="https://instagram.com/aryan_technolog1es"><img src="https://img.shields.io/badge/Instagram-Follow%20@Aryan_Technologies-E1306C"/></a>
 </div>
+<p align="center">
+<br/>
+<img src="https://cdn.shopify.com/s/files/1/0068/2142/files/payload-studio-extensions_600x.gif?v=1659716795">
+<br/>
+<i> Payload Studio Extensions Preview GIF</i>
+</p>
 
 # 🌐 WiFi Password Retriever 🌐
 
