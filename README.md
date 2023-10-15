@@ -42,3 +42,24 @@ WiFi Password Retriever is a powerful and user-friendly script that allows you t
 
    ```bash
    git clone https://github.com/your-repo/wifi-password-retriever.git
+
+ 2. Run the script:
+
+   - **Linux**:
+
+     bash
+     chmod +x wifi_password_retriever.sh
+     ./wifi_password_retriever.sh
+     
+
+   - **Windows**:
+
+     powershell
+     .\wifi_password_retriever.ps1
+     
+
+3. Follow the on-screen instructions to retrieve your saved Wi-Fi passwords.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to help improve WiFi Password Retriever.
