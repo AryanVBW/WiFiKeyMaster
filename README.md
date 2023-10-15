@@ -14,7 +14,7 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 </div>
 <p align="center">
 <br/>
-<img src="https://github.com/AryanVBW/WiFiKeyMaster/releases/download/v1/Vivek.mp4">
+<img src="https://github.com/AryanVBW/WiFiKeyMaster/releases/download/v1/Vivek.gif">
 <br/>
 <i> Payload Studio Extensions Preview GIF</i>
 </p>
