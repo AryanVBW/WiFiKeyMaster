@@ -21,7 +21,7 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#introduction) 😎
 - [Features](#features)
 - [Supported Platforms](#supported-platforms)
 - [Usage](#usage)
