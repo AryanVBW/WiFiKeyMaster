@@ -15,8 +15,6 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 <p align="center">
 <br/>
 <img src="https://github.com/AryanVBW/AryanVBW/releases/download/L2/VivekT.gif">
-<br/>
-<i> Payload Studio Extensions Preview GIF</i>
 </p>
 
 # 🌐 WiFi Password Retriever 🌐
