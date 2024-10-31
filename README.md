@@ -11,26 +11,26 @@
   </p>
 
   <div align="center">
-  <p style="font-size: 20px; margin-bottom: 10px;">
-    Connect with me on social media! 🌐
-  </p>
-  
-  <a href="https://github.com/Aryanvbw" style="margin: 0 10px;">
-    <img src="https://img.shields.io/github/followers/yourusername?label=GitHub&style=for-the-badge&color=181717" alt="GitHub followers">
-  </a>
-  
-  <a href="https://x.com/vivekwagadare?t=nuIH3LUbo8o2o1Rjxot-hA&s=09" style="margin: 0 10px;">
-    <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?label=Twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow">
-  </a>
-  
-  <a href="https://instagram.com/vivekbw" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20@Vivek-E1306C?style=for-the-badge" alt="Instagram Follow @Vivek">
-  </a>
-  
-  <a href="https://instagram.com/aryan_technolog1es" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20@Aryan_Technologies-E1306C?style=for-the-badge" alt="Instagram Follow @Aryan_Technologies">
-  </a>
-</div>
+    <p style="font-size: 20px; margin-bottom: 10px;">
+      Connect with me on social media! 🌐
+    </p>
+    
+    <a href="https://github.com/Aryanvbw" style="margin: 0 10px;">
+      <img src="https://img.shields.io/github/followers/yourusername?label=GitHub&style=for-the-badge&color=181717" alt="GitHub followers">
+    </a>
+    
+    <a href="https://x.com/vivekwagadare?t=nuIH3LUbo8o2o1Rjxot-hA&s=09" style="margin: 0 10px;">
+      <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?label=Twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow">
+    </a>
+    
+    <a href="https://instagram.com/vivekbw" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/Instagram-Follow%20@Vivek-E1306C?style=for-the-badge" alt="Instagram Follow @Vivek">
+    </a>
+    
+    <a href="https://instagram.com/aryan_technolog1es" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/Instagram-Follow%20@Aryan_Technologies-E1306C?style=for-the-badge" alt="Instagram Follow @Aryan_Technologies">
+    </a>
+  </div>
 </div>
 
 <p align="center">
@@ -42,57 +42,45 @@
   <em style="font-size: 300px; color: #555;">A glimpse into my journey in technology and development.</em>
 </p>
 
-
-
-
 # 🌐 WiFi Password Retriever 🌐
 
-
 ## Table of Contents
- 1.[**Introduction**](#introduction) 😎
- 
- 2.[**Features**](#features) 🌟
- 
- 3.[**Supported Platforms**](#supported-platforms)🖥️
- 
- 4.[**Usage**](#usage)📖
- 
- 5.[**Contributing**](#contributing)🤝
- 
- 6.[**Disclaimer**](#Disclaimer)⚠️
+1. [**Introduction**](#introduction) 😎  
+2. [**Features**](#features) 🌟  
+3. [**Supported Platforms**](#supported-platforms) 🖥️  
+4. [**Usage**](#usage) 📖  
+5. [**Contributing**](#contributing) 🤝  
+6. [**Disclaimer**](#disclaimer) ⚠️  
 
 ## Introduction
 
-Welcome to **WiFi Password Retriever**, a powerful and user-friendly script designed to help you effortlessly recover saved Wi-Fi passwords across various platforms. Whether you need to troubleshoot your connection or simply want to remember that tricky password, this tool is here to streamline the process. 
+Welcome to **WiFi Password Retriever**! This powerful and user-friendly script helps you effortlessly recover saved Wi-Fi passwords across various platforms. Whether you need to troubleshoot your connection or recall a tricky password, this tool streamlines the process. 
 
 ![Demo](https://your-demo-gif-or-screenshot-link-here.gif)
 
 ## Features 
 
- - 🔐 **Retrieve Saved Passwords**: Instantly display saved Wi-Fi passwords on your system with just a few clicks.
-  
-- 🌍 **Multi-Platform Support**: Compatible with a range of operating systems, including Windows, Linux, and more.
-  
+- 🔐 **Retrieve Saved Passwords**: Instantly display saved Wi-Fi passwords on your system with just a few clicks.
+- 🌍 **Multi-Platform Support**: Compatible with a range of operating systems, including Windows, Linux, and macOS.
 - 💡 **User-Friendly Interface**: Designed for users of all skill levels, our intuitive interface makes navigation a breeze.
-  
 - 🚀 **Quick and Easy**: Access your saved passwords in seconds with straightforward commands.
-  
 - 🔒 **Respecting Security**: This tool is strictly for personal use and adheres to your system's security protocols, ensuring it only reveals passwords for networks you are connected to.
-
 
 ## Supported Platforms
 
 - **Windows** 🪟
 - **Linux** 🐧
-- **MacOS** 🍏
+- **macOS** 🍏
 
 ## Usage
+
 ### Step-by-Step Guide:
 
-1. Clone the repository:
+1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/AryanVBW/WiFiKeyMaster.git
+
    
  2. Run the script:
 
